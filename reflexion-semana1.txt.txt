@@ -1,0 +1,5 @@
+Pregunta 4 
+Respuesta
+La relación es que los tres requieren proceso crítico y ordenado. 
+El consumo de información en internet exige un pensamiento reflexivo que permita evaluar el impacto de los mensajes en la sociedad antes de difundirlos, garantizando así una base de veracidad. Esta responsabilidad fundamenta una participación ciudadana consciente, donde el respeto y el compromiso social guían la interacción en entornos digitales. Finalmente, herramientas como Git proporcionan la estructura técnica necesaria para gestionar este flujo de datos de manera organizada, permitiendo la trazabilidad de cada cambio y facilitando la comprensión colectiva. En conjunto, estos elementos aseguran que tanto el conocimiento compartido como el trabajo técnico sean transparentes, coherentes y útiles para el desarrollo de proyectos con impacto social  
+
