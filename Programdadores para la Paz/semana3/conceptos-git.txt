@@ -1,0 +1,5 @@
+Explicación 
+•	Repositorio: 
+Es una carpeta donde git guarda los archivos de un proyecto y el historial de cambios, puede estar en computador, o en internet, es posible ver quien hizo cambios y cuando 
+•	Commit: es una un punto o foto guardada de cambios, tiene un mensaje que explica que se cambió, se usa después de terminar una tarea para no perder el avance.  
+•	Push: comando que envía commits locales al repositorio remoto para que otros los vean y los puedan usar, sincroniza el trabajo con el servidor central, sin push , los cambios solo exiten en tu computador 
